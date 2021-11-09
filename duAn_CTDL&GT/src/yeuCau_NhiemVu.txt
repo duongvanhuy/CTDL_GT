@@ -1,0 +1,18 @@
+Quản lý thông tin dịch bệnh Covid 19 (bluzone)
+Thứ nhất: Người dân
+Thứ 2 : cơ quan quản lý(admin)
+-------------------------nhiệm vụ------------------------------------------
+Người dân: 
+	-cung cấp thông tin(thêm vào CSDL)
+	-xóa, hủy thông tin
+	-khai báo y tế
+	-kiểm tra thông tin dịch bệnh
+	-dịch vụ chăm sốc y tế- đặt lịch khám bệnh, tìm kiếm cơ sở khám chữa bệnh, tìm kiểm bác sĩ
+	-đăng kí tiêm chủng
+admin:
+	-tạo ra tài khoản mới cho cơ quan ý tế hay cá nhân có thẩm quyền được truy cập sử dụng CSDL
+	=> sẽ được hay hạn chế một số quyền
+	-thống kê số người dân sd ứng dụng
+	-khoannh vùng những người đang ở trong các vùng(đỏ, cam, vàng , xanh)
+	-Thống kê, kiểm tra những nguời bị bệnh		
+	-chức năng cơ bản khác
